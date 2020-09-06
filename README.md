@@ -12,4 +12,4 @@ I consider myself an expert at pandas, but only because I have spent the past 6 
 
 Why do I use pandas so much? Well it's really really useful. You can think of pandas as a container for data, and well data is everywhere.
 
-Why was it aa grind. Well the API is huge, and often confusing and there are more than one way to do things.
+Why was it a grind. Well the API is huge, and often confusing and there are more than one way to do things.
